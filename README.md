@@ -58,7 +58,7 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=adarshtiwaridev&show_icons=true&theme=radical" height="180"/> -->
-  <img src="https://streak-stats.demolab.com?user=adarshtiwaridev&theme=radical" height="180"/>
+<img src="https://streak-stats.demolab.com?user=adarshtiwaridev&theme=radical&v=2" />
 </p>
 
 <!-- <p align="center">
