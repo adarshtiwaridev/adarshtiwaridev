@@ -208,13 +208,7 @@ Building intelligent web applications using Generative AI, OpenAI APIs, Gemini A
 
 ✔ Scalable Applications
 
----
 
-# 📈 ATS Keywords
-
-Software Engineer • Software Development Engineer • Full Stack Developer • MERN Stack Developer • Frontend Developer • Backend Developer • React.js • Next.js • Node.js • Express.js • JavaScript • TypeScript • MongoDB • PostgreSQL • MySQL • Redis • REST APIs • JWT Authentication • RBAC • OAuth • Docker • Kubernetes • AWS • CI/CD • Git • GitHub • Linux • Cloud Computing • System Design • Data Structures & Algorithms • OOP • Design Patterns • SOLID Principles • Clean Architecture • Performance Optimization • Artificial Intelligence • Generative AI • AI Agents • Prompt Engineering • Enterprise Applications
-
----
 
 # 🤝 Connect With Me
 
